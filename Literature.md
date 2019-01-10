@@ -6,6 +6,16 @@
 * Weakly supervised learning in medical imaging: https://arxiv.org/abs/1804.06353
 * Deep learning in radiology: https://link.springer.com/content/pdf/10.1007%2Fs13244-018-0639-9.pdf
 
+## Multiple instance learning
+
+* Survey MIL in medical imaging: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7812612
+* Survey MIL in general (including underexplored problems): https://www.sciencedirect.com/science/article/pii/S0031320317304065
+* Label stability: https://link.springer.com/chapter/10.1007/978-3-319-24553-9_66
+
+* MIL for COPD: https://research.tue.nl/en/publications/classification-of-copd-with-multiple-instance-learning
+* Other examples in https://arxiv.org/abs/1804.06353
+
+
 ## Transfer learning / multi-task learning
 
 * Natural vs medical images: https://arxiv.org/abs/1810.05444
