@@ -6,12 +6,16 @@ This goal of this repository is to help you be successful as a student, and to h
 
 Since I have just started writing this guide in January 2019, it is not yet complete. My hope for it is to cover the following topics:
 
-* Onboarding - getting started with your project
-* Expectations - what I expect from you and what you can expect from me
-* Vision - my view on what we should research, and how to do it
-* Lab organization - meetings, communication etc 
-* Literature - papers I recommend that you read
-* Tips - writing papers, giving presentations etc. 
+* [Onboarding](chapter-onboarding.md) - getting started with your project
+* [Expectations](chapter-expectations.md) - what I expect from you and what you can expect from me
+* [Vision](chapter-vision.md) - my view on what we should research, and how to do it
+* Lab organization - [meetings](chapter-meetings.md) etc 
+* [Literature](chapter-literature.md) - suggested reading 
+* Tips for
+** [Planning your project](chapter-tips-planning.md)
+** [Coding](chapter-tips-coding.md)
+** [Writing](chapter-tips-writing.md)
+** [Presenting](chapter-tips-presenting.md)
 
 This repository is meant to be a living thing which changes after each student project. I therefore invite any comments or suggestions (via pull requests or email). 
 
