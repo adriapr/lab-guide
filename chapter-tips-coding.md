@@ -10,9 +10,7 @@
 
 * Your code is going to be used by other people - your future self, other students, and myself. Document your code regularly, don't leave it until the end of your project
 
-* Separate your methods (classifiers) from your experiments (which methods to test on which data, how many times). 
-
-* Separate your parameters from your code. [To be continued]
+* Separate your methods (classifiers) from your experiments (which methods to test on which data, how many times). Separate your parameters from your code. I suspect there are tools out there which can help you do all of this, for example in this thread by Andrew Ng: https://twitter.com/AndrewYNg/status/1080887386488299520 . If you find a good tool or example, please submit a pull request!  
 
 
 ### Tutorials 
@@ -37,6 +35,8 @@ Lung nodule classification: https://github.com/juliandewit/kaggle_ndsb2017
 
 ### Examples (other students): 
 
+Lung nodule classification (Linde Hesse): https://github.com/tueimage/lung-nodule-msc-2018
+
 
 
 ## Github
@@ -45,7 +45,7 @@ Github is a way to version control your project and share your code (or anything
 
 This means you can
 
-	* Go back to previous versions if something you implemented isnít working
+	* Go back to previous versions if something you implemented isn‚Äôt working
 	* Collaborate with other people on your code
 	* Have other people use your code after your project is done!
 	* Read about all the advantages (plus some tips) here: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
@@ -60,7 +60,7 @@ This means you can
 
 3) Check out some of these other resources if you need more help:
 
-* Git for Windows: https://gitforwindows.org/ During the installation, make sure to check the boxes ìAdd Git GUI hereî and ìAdd Git Bash hereî
+* Git for Windows: https://gitforwindows.org/ During the installation, make sure to check the boxes ‚ÄúAdd Git GUI here‚Äù and ‚ÄúAdd Git Bash here‚Äù
 * Tutorial: https://nathanj.github.io/gitguide/tour.html
 * Another tutorial: https://code.tutsplus.com/tutorials/git-on-windows-for-newbs--net-25847
 * Interactive website: https://try.github.io/
