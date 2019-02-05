@@ -5,7 +5,7 @@ There is a lot of writing in research! You will often hear me say to write early
 ## Taking notes
 
 * Take notes in your lab notebook. Document what you've read about, what you thought about it, what you might have done differently. If trying out experiments, write down what worked and what didn't. It seems counterintuitive but this will help you come up with new ideas, and will speed up the process when you sit down to write your thesis or a paper.
-* If summarizing a paper, get into the habit of already paraphrasing the text - if you plan to do this later you can forget about it, which is dangerous.
+* Summarize papers you read into an annotated bibliography - what was the main point of the paper and why might it be relevant to your research? Get into the habit of already paraphrasing the text - if you plan to do this later you can forget about it, which is dangerous.
 
 
 ## Software

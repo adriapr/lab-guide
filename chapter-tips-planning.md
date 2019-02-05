@@ -1,41 +1,40 @@
-# Writing
+# Planning
 
-There is a lot of writing in research! You will often hear me say to write early, and write often. In this part I explain what that means. 
+## General
 
-## Taking notes
-
-* Take notes in your lab notebook. Document what you've read about, what you thought about it, what you might have done differently. If trying out experiments, write down what worked and what didn't. It seems counterintuitive but this will help you come up with new ideas, and will speed up the process when you sit down to write your thesis or a paper.
-* If summarizing a paper, get into the habit of already paraphrasing the text - if you plan to do this later you can forget about it, which is dangerous.
+Planning projects is difficult. Although when I was university I participated in many group projects, they did not prepare me for managing my own projects, especially when I started to have multiple projects at at time. Now I enjoy learning about planning and I wish I would have known these things a lot time ago. So, I will try to share what I know with you. It might take me a while to write this section, but for now you can also check out some of my blog posts on this topic at https://www.veronikach.com 
+ 
 
 
-## Software
+## Project management in Github
 
-* Use LateX. You can use Overleaf, which integrates with Git if you want to have an offline copy. Another option for offline work is described here: https://www.win.tue.nl/latex/windows.html (only if you are on the TUE network). 
-* Use Bibtex for your references. You can manage Bibtex files with Jabref or Zotero. With Overleaf you can have one .bib file which you access from multiple projects, I have written a blog post about this here: https://veronikach.com/phd-advice/multiple-overleaf-projects-with-a-single-bib-file/
-* Next to your own .bib file, you can (in Overleaf) add mine via https://www.dropbox.com/s/g17zns4gploqk4c/refs_main.bib?dl=1 which will save time with formatting. 
+Next to managing code, you can also use Github to manage your project. In the web interface, your repository should have a “Projects” tab. There is a list of projects here. It is possible to have multiple projects for a single repository. This is helpful, for example, if you are working with multiple students on the same code, but you each have your own project/planning.
+
+A project consists of columns (like “todo”, “in progress” and “done”) and cards. A card can be a task you need to do. 
+A card can be made in two ways:
+
+* Creating an issue on Github, which automatically adds a card to the "todo" column. An advantage of this is that it is possible to add more information like dates and people to issues (and therefore cards). I would suggest that you use issues for anything related to your code.  
+
+* Creating a card directly. This is going to be a ``text-only'' card with less functionality. This is useful for tasks related to your project, but not your code, for example signing forms. 
+
+A card will usually start in the todo column. Then you can move it through different columns as you work on it. This is called a Kanban system. The idea is not to have too many cards in the ``in progress'' column, and to instead focus on getting a task done first, then moving on to the next. 
+
+Here are some examples of Kanban systems used by researchers:
+
+* https://github.com/WhitakerLab/WhitakerLabProjectManagement/projects/2
+
+* https://www.linkedin.com/pulse/kanban-project-management-stem-phd-research-part-2-how-duc-phan/
 
 
-## Structure / Style
 
-Writing easy-to-read, concise and convincing papers is difficult and takes practise. I am still learning this as well - reading papers, and reading books about writing helps. Since such books are out there (I will add a few I recommend as this guide develops), I cannot summarize everything you need to know here. However, here are a few tips: 
 
-* Read papers from the journal / conference you want to submit to, to become familiar with the typical structure
-* Follow the rules of the journal / conference
-* Use active voice (we) 
-* Avoid paragraphs or sentences that are too long
-* When reading the first sentence of every paragraph, a coherent story should form
 
-* Do not capitalize regular words, such as deep learning
-* Check that all acronyms are defined first 
-* Be consistent, for example "finetuning" vs "fine-tuning"
-* Tables and figures should be readable stand-alone, and ideally should still be readable in black-and-white format
-* Tidy up your references to be consistent, remove any unnecessary words like "Proceedings of the third". Use my .bib file for examples. 
+## Other tips and examples
 
-## Co-authorship
+http://groups.uni-paderborn.de/matiker/How_to_write_a_Bachelors_or_Masters_thesis.pdf 
 
-To be continued
+http://www.nextscientist.com/manage-a-large-research-project/ 
 
-## Preprints
+https://users.informatik.haw-hamburg.de/~schmolitzky/papers/PatternsForThesisProjects_final.pdf (written for supervisors, but could be helpful for your planning)
 
-To be continued
-
+https://github.com/gvwilson/uspg (a bit out of date and aimed at software engineering projects, but the sections on meetings, time management, cutting corners are worth a read)
