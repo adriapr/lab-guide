@@ -15,27 +15,27 @@
 
 ### Tutorials 
 
-Python tutorial: https://github.com/kuleshov/cs228-material
-Another python tutorial: https://github.com/tobyhodges/ITPP
-Keras tutorial: https://github.com/tueimage/8DM20-deeplearning-keras/blob/master/mnist_practical_keras.ipynb
+* Python tutorial: https://github.com/kuleshov/cs228-material
+* Another python tutorial: https://github.com/tobyhodges/ITPP
+* Keras tutorial: https://github.com/tueimage/8DM20-deeplearning-keras/blob/master/mnist_practical_keras.ipynb
 
 ### Toolboxes
-Clean implementation of machine learning algorithms: https://github.com/rushter/MLAlgorithms
-Working with CT images: https://github.com/analysiscenter/radio
-Deep learning for medical images: https://github.com/DLTK/DLTK
-Deep learning for medical images: https://github.com/NifTK/NiftyNet
-Deep learning for segmentation: https://github.com/Kamnitsask/deepmedic
-Medical imaging interaction: https://github.com/MITK/MITK
-Volume segmentation: https://github.com/SCIInstitute/Seg3D
+* Clean implementation of machine learning algorithms: https://github.com/rushter/MLAlgorithms
+* Working with CT images: https://github.com/analysiscenter/radio
+* Deep learning for medical images: https://github.com/DLTK/DLTK
+* Deep learning for medical images: https://github.com/NifTK/NiftyNet
+* Deep learning for segmentation: https://github.com/Kamnitsask/deepmedic
+* Medical imaging interaction: https://github.com/MITK/MITK
+* Volume segmentation: https://github.com/SCIInstitute/Seg3D
 
 
 ### Examples (challenges):
 
-Lung nodule classification: https://github.com/juliandewit/kaggle_ndsb2017
+* Lung nodule classification: https://github.com/juliandewit/kaggle_ndsb2017
 
 ### Examples (other students): 
 
-Lung nodule classification (Linde Hesse): https://github.com/tueimage/lung-nodule-msc-2018
+* Lung nodule classification (Linde Hesse): https://github.com/tueimage/lung-nodule-msc-2018
 
 
 
@@ -45,10 +45,10 @@ Github is a way to version control your project and share your code (or anything
 
 This means you can
 
-	* Go back to previous versions if something you implemented isn’t working
-	* Collaborate with other people on your code
-	* Have other people use your code after your project is done!
-	* Read about all the advantages (plus some tips) here: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
+* Go back to previous versions if something you implemented isn’t working
+* Collaborate with other people on your code
+* Have other people use your code after your project is done!
+* Read about all the advantages (plus some tips) here: http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947
 
 
 ### Getting started 
