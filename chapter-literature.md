@@ -62,7 +62,7 @@ We will exchange/review "this might be interesting" papers in Evernote.
 * Why most clinical research is not useful: https://journals.plos.org/plosmedicine/article/file?id=10.1371/journal.pmed.1002049&type=printable
 * Example replication study for diabetic retinopathy: https://arxiv.org/pdf/1803.04337.pdf
 
-## Baysian Machine Learning
+## Bayesian Machine Learning
 * Coursera course on Bayesian Machine Learning (Beginner friendly, helpful if you have some ML experience and a bit of Python skills): https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome
 * Video tutorial on Bayesian Deep Learning at Deep Learning and Reinforcement Learning Summer School, Toronto 2018: http://videolectures.net/DLRLsummerschool2018_wilson_bayesian_neural_nets/
 
