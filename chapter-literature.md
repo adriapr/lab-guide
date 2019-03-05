@@ -1,5 +1,12 @@
 # Literature list
 
+Here are some papers that are relevant to one or more projects. Please only add papers here which you have read, and leave a comment of why a paper might be relevant to others. 
+
+We will exchange/review "this might be interesting" papers in Evernote.
+
+
+
+
 ## General
 
 * Deep learning in medical imaging: https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135
