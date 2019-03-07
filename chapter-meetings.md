@@ -9,13 +9,13 @@ examples of good task could be: "Read 3 papers on topic x", "implement method fr
 
 Depending on the progress of the task, the task has a location on the Scrum board. the 4 states of a task are: 
 
-#Backlog
+# Backlog
 * Long term task. This could be things want/need/plan to do, but not within the current Sprint 
-#Do
+# Do
 * Tasks that are not currently in progress but will be within the current Sprint 
-#Doing
+# Doing
 * Tasks which are in progress
-#Done
+# Done
 * Tasks which are done
 
 More info on Scrum:
@@ -26,11 +26,11 @@ More info on Scrum:
 
 The current setup of the lab meetings is:
 
-Tuesday
+# Tuesday
 * Discuss the progress of the current tasks
 * Create and plan tasks and shift tasks accross the board
 
-Thursday
+# Thursday
 * Discuss the progress of the current tasks
 * No new tasks should be moved into "Do" or "Doing"
 * Tasks for the backlog can be added at any time. 
@@ -38,10 +38,10 @@ Thursday
 
 Next to meetings, we will communicate mostly via email, Slack or Github:
 
-* Email is for more official things, especially announcements within the IMAG/e group. If you need me to add something specific to my todo list (such as write a reference letter for you), email is best as well. 
+1. Email is for more official things, especially announcements within the IMAG/e group. If you need me to add something specific to my todo list (such as write a reference letter for you), email is best as well. 
 
-* Slack can be used for communication about projects, various announcements and short questions. 
+2. Slack can be used for communication about projects, various announcements and short questions. 
 
-* Github (issues) might be more effective to use Github directly, so that the discussion is kept alongside with the code. 
+3. Github (issues) might be more effective to use Github directly, so that the discussion is kept alongside with the code. 
 
 In general I will tend not reply in the evenings or weekends (and I don't expect you to either). However, I will keep an eye on my email/Slack if there are any pressing issues. If there is a true emergency, you can contact me by phone (ask me at the next meeting for the number). 
