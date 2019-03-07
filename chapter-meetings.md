@@ -9,13 +9,13 @@ examples of good task could be: "Read 3 papers on topic x", "implement method fr
 
 Depending on the progress of the task, the task has a location on the Scrum board. the 4 states of a task are: 
 
-# Backlog
+### Backlog
 * Long term task. This could be things want/need/plan to do, but not within the current Sprint 
-# Do
+### Do
 * Tasks that are not currently in progress but will be within the current Sprint 
-# Doing
+### Doing
 * Tasks which are in progress
-# Done
+### Done
 * Tasks which are done
 
 More info on Scrum:
@@ -26,11 +26,11 @@ More info on Scrum:
 
 The current setup of the lab meetings is:
 
-# Tuesday
+### Tuesday
 * Discuss the progress of the current tasks
 * Create and plan tasks and shift tasks accross the board
 
-# Thursday
+### Thursday
 * Discuss the progress of the current tasks
 * No new tasks should be moved into "Do" or "Doing"
 * Tasks for the backlog can be added at any time. 
