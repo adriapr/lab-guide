@@ -12,6 +12,9 @@ We will exchange/review "this might be interesting" papers in Evernote.
 * Deep learning in medical imaging: https://www.sciencedirect.com/science/article/abs/pii/S1361841517301135
 * Weakly supervised learning in medical imaging: https://arxiv.org/abs/1804.06353
 * Deep learning in radiology: https://link.springer.com/content/pdf/10.1007%2Fs13244-018-0639-9.pdf
+* Really nice primer on vector calculus : https://explained.ai/matrix-calculus/index.html#intro
+* Guide to convolutions : http://arxiv.org/abs/1603.07285
+* Nice introduction to the many different loss functions, focusses on the motivations behind the design of loss functions, intuitive explanations: http://ruder.io/optimizing-gradient-descent/
 
 ## Multiple instance learning
 
