@@ -3,23 +3,24 @@
 
 # Onboarding
 
-This sections contains a number of things that should happen in the first few weeks of your project. 
+This sections contains a number of things that should happen in the first few (3-4) weeks of your project. 
 
-## Logistics
+## Getting started
 
 Before we get started I'd like to ask you to:
 
 * Fill in any necessary forms and ask me to sign them
 * Create a Github account and send me your Github username 
-* Send me your picture (for the IMAG/e website and my own website)
+* Send me your picture (for the IMAG/e website)
 * Review the list of things I have to do, and remind me if I missed anything
 
 I will do the following:
 
 * Add you to Slack (chat) 
-* Send an email with a CC to you, asking for a computer for you
-* Send an email with a CC to you, asking for a server account for you
-* Add you to the IMAG/e website and my own website
+* Add you to several Evernote notebooks (repository with background information, papers, etc)
+* Add you to a Github group 
+* Send an email with a CC to you, asking for a computer and server account (if applicable) for you
+* Add you to the IMAG/e website
 
 
 ## Problem definition
@@ -32,7 +33,8 @@ Based on our initial discussion and the first papers that you've read, create an
 * what a first prototype might be
 * rough schedule 
 
-Write this down in README.MD before the next weekly meeting. This description is not final and may change throughout your project. 
+Write this down and ask me to review it when you are done. This description is not final and may change throughout your project. 
+
 
 ## Literature 
 
@@ -50,7 +52,6 @@ Decide on where you are going to keep your lab notebook. This can be an .MD file
 Consider it like a captain's log on a ship. Every day you work on the project, you write what you did, what didn't work, why you decided to try something else, a screenshot of the results, etc. 
 
 The notebook is for yourself, but you can bring it to the meeting to discuss problems and results. Also the notebook will help your future self to figure out what you did when you want to write your thesis. If you want, show me your setup and I can give you feedback. 
-
 
 
 ## Todo list
