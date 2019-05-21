@@ -10,14 +10,10 @@ During the lab meetings every Tuesday and Thursday we working according to the S
 
 Depending on the progress of the task, the task has a location on the Scrum board, in our of the four columns:
 
-### Backlog
-* Long term task. This could be things want/need/plan to do, but not within the current Sprint 
-### Do
-* Tasks that are not currently in progress but will be within the current Sprint 
-### Doing
-* Tasks which are in progress
-### Done
-* Tasks which are done
+* Backlog - Long term task. This could be things want/need/plan to do, but not within the current Sprint 
+* Do - Tasks that are not currently in progress but will be within the current Sprint 
+* Doing - Tasks which are in progress
+* Done - Tasks which are done
 
 More info on Scrum:
 * https://rxqx.github.io/post/working-in-a-scrum-lab/
