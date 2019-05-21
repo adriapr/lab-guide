@@ -31,7 +31,7 @@ The goal of this document is to establish what I expect from you, and what you c
 
 * You can expect me to be understanding if you are dealing with any physical or mental health problems, and if needed to point you to helpful resources.
 
-* You can expect to meet with me approximately every week. If I am not able to be there, I will let you know in advance. If I am away, we might be able to meet via Skype. In between meetings, you can expect me to answer short questions on Slack. 
+* You can expect to meet with me approximately every week. If I am not able to be there, I will let you know in advance. If I am away, we might be able to meet via Hangouts. In between meetings, you can expect me to answer short questions on Slack. 
 
 * You can expect me to help with tips on how to organize your project/todo-list, or point you in the direction where you can find more help - but I cannot keep track of it for you. 
 
