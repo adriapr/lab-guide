@@ -1,10 +1,10 @@
 # Literature list
 
-Here are some papers that are relevant to one or more projects. Please only add papers here which you have read, and leave a comment of why a paper might be relevant to others. 
+Here are some papers that are relevant to one or more projects. This is a list to get started and will not be complete. Other papers can be found in Evernote. 
 
-We will exchange/review "this might be interesting" papers in Evernote.
+## Evernote 
 
-
+You should have access to some Evernote notebooks, including 20-Planner and 22-Reference. The 22-Reference notebook contains 400+ paper PDFs, some with notes on them. Instructions on how to search for relevant papers within this list can be found in 20-Planner. 
 
 
 ## General
