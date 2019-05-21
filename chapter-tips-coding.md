@@ -53,10 +53,9 @@ This means you can
 
 ### Getting started 
 
-1) Register for an account on github.com and send your username to your supervisor. This will allow me to fork this student project template for you into your own repository at tue-image, and add you there as a collaborator.
+1) Register for an account on github.com and send your username to your supervisor. You will be added to an existing repository or to a new one, depending on your project. 
 
-2) Once you received an invitation to your repository, explore the files a bit, try to edit them, etc. This guide has a good step by step procedure for this: https://lgatto.github.io/github-intro/ 
-
+2) Once you received an invitation to your repository, explore the functionality a bit. This guide has a good step by step procedure for this: https://lgatto.github.io/github-intro/ 
 
 3) Check out some of these other resources if you need more help:
 
@@ -66,7 +65,6 @@ This means you can
 * Interactive website: https://try.github.io/
 Learn Github while on Github: https://lab.github.com/
 * Github cheat sheet: https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
-
 
 The most important rule of Github is, it's normal that you don't understand everything at first! Start with functionality you are comfortable with, and go from here. 
 
