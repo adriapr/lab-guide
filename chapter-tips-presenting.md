@@ -39,3 +39,7 @@ Nederland
 
 * A few tips how to stand out of the crowd: https://veronikach.com/lifestyle/5-easy-ways-to-do-more-with-your-poster/
 * Recycle your poster: https://veronikach.com/lifestyle/how-to-recycle-your-fabric-poster-faq/
+
+## Powerpoint presentations
+
+* A TU/e template for powerpint presentations is available here: https://intranet.tue.nl/en/university/services/communications-expertise-center/corporate-identity/resources-for-corporate-identity/powerpoint-presentation/
