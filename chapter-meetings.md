@@ -6,7 +6,7 @@ There are 2 types of meetings every week:
 * Meetings with the whole lab on Tuesday and Thursday, both at 11am 
 * We have our individual meetings, which due to the lab meetings are probably going to be short.
 
-There is also an IMAG/e-wide meeting which can be useful to attend, Espresso, on Thursdays at 4pm. 
+There is also an IMAG/e-wide meeting which can be useful to attend, Espresso, on Thursdays at 4pm. You should receive weekly invitations with the speakers and the topic they will be presenting. 
 
 ## Meeting setup
 
