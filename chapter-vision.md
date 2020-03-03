@@ -11,5 +11,5 @@ Although we will work on different projects, I think the key is to act as a team
 * We set deadlines for finishing the projects we work on, for example by submitting the work to a journal or conference. A project is successful if we are proud of the work we did and shared it with the rest of the world. Getting it accepted is a bonus. 
 * We take initiative and actively contribute to the lab, and suggest ways to improve the process further
 
-This is somewhat different than the traditional model of one supervisor who communicates with each student individually, but the students projects do not overlap. In my opinion this is isolating for the students, and time-intensive for me as a supervisor. By pooling our knowledge and resources, I think we can work more effectively and efficiently. Think of us as a sports team - a team will only be successful if everybody works together, not if there's just one star player or coach. 
+
 
