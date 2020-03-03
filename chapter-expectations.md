@@ -23,7 +23,7 @@ The goal of this document is to establish what I expect from you, and what you c
 	 	 
 * I expect that you will contribute to the lab and the larger IMAG/e group, by joining lab/group meetings (and presenting or asking questions) and events, interacting with other students, etc. If you are doing a longer project, ask if you can contribute to general lab/group tasks.
 	 
-* If you are doing a longer project, I expect that you will ask my advice on issues related to your professional development (like choosing courses, research directions, leaving or staying in academia etc). I expect that you will consider that advice, but use your own judgement about taking it. I also encourage you to seek advice from other mentors. 
+* If you are doing a longer project, I expect that you will ask my advice on issues related to your professional development. I expect that you will consider that advice, but use your own judgement about taking it. I also encourage you to seek advice from other mentors. 
 
 
 ## Your expectations of me
