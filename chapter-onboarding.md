@@ -11,7 +11,7 @@ Before we get started I'd like to ask you to:
 
 * Fill in any necessary forms and ask me to sign them
 * Create a Github account and send me your Github username 
-* Send me your picture (for the IMAG/e website)
+* Send me your picture if you are doing a longer project
 * Review the list of things I have to do, and remind me if I missed anything
 
 I will do the following:
